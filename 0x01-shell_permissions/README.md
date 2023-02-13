@@ -39,7 +39,7 @@ Task 12:
 	 Create a directory called `my_dir` with permissions 751 in the working directory. User has all read, write, and execute permissions. Group has read and execute permissions. Others have just execute permission.
 
 Task 13:
-	 Change gorup owner to `group` for the file `hello`
+	 Change group owner to `group` for the file `hello`
 
 Task 14:
 	 Change owner to `staff` and the group owner to `vincent` for all files and directories in current directory.
